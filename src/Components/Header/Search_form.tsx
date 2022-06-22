@@ -1,6 +1,6 @@
 import React from "react";
 
-const Search_form = () => {
+const SearchForm = () => {
     return (
         <form className='search_form'>
             <input className="search_input" />
@@ -11,4 +11,4 @@ const Search_form = () => {
     )
 }
 
-export default Search_form;
+export default SearchForm;

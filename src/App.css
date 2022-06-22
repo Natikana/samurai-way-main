@@ -14,7 +14,7 @@
     grid-area: header;
     background-color: darkgray;
     grid-template:  1fr/ 1fr minmax(50px, auto) minmax(540px, auto) minmax(510px, auto) minmax(50px, auto) 1fr ;
-    padding: 15px;
+
     align-items: center;
 }
 .logo {
